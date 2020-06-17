@@ -1,0 +1,1 @@
+This directory and subdirectories contain the source code for this series.
